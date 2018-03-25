@@ -32,27 +32,7 @@ Total of 433's gcr.io images
 
 | No | sync from | docker hub | tags count | total size | last sync time | more |
 | - | - | - | - | - | - | - |
-
-
-
-
-
-
-
-
-
-
 | 1 | [https://gcr.io/google-containers/addon-resizer](https://gcr.io/google-containers/addon-resizer) | [https://hub.docker.com/u/google-containers/addon-resizer/tags/](https://hub.docker.com/u/google-containers/addon-resizer/tags/) |  | unkonw | 2018-03-25 10:22:24.909277 | [more](./google-containers/addon-resizer.md) |
-
-
-
-
-
-
-
-
-
-
 | 2 | [https://gcr.io/google-containers/addon-resizer-amd64](https://gcr.io/google-containers/addon-resizer-amd64) | [https://hub.docker.com/u/google-containers/addon-resizer-amd64/tags/](https://hub.docker.com/u/google-containers/addon-resizer-amd64/tags/) |  | unkonw | 2018-03-25 10:22:25.094927 | [more](./google-containers/addon-resizer-amd64.md) |
 
 
